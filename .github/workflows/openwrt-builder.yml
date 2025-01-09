@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/Ogglord/openwrt-MT6000
+  REPO_URL: https://github.com/pesa1234/openwrt
   REPO_BRANCH: next-r4.5.5.rss.mtk
   #FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
